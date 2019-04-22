@@ -1,0 +1,17 @@
+LA CARPETA [REPORTES] ES SOLO UNA CARPETA DE TRABAJO que se usa en el proyecto
+de visual basic.
+
+EN LA CARPETA REPORTES SE UBICAN LOS ARCHIVOS DE REPORTES DEL PROGRAMA 
+CREADOS CON EL PROGRAMA [ACTIVE REPORTS]
+
+ESTOS SE USAN SOLO AL MOMENTO DE COMPILAR EL SISTEMA.
+
+LA CARPETA [REPORTES] NO SE USA PARA GENERAR EL INSTALADOR O ACTUALIZADOR DEL SISTEMA.
+
+(*)Para que el proyecto de visual basic cargue correctamente los archivos de reporte
+usted debe instalar previamente el programa ACTIVE REPORTS que tambien se habilitara para descarga.
+(la descarga del active reports sera por separado en un paquete comprimido aparte)
+
+
+
+
